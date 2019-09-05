@@ -6,7 +6,7 @@ from tensorflow.keras import constraints
 from tensorflow.python.keras.engine.base_layer import InputSpec
 from tensorflow.python.keras.engine.base_layer import Layer
 
-class CBFD(Layer):
+class CBD(Layer):
     """
     # Arguments
         units: Positive integer, dimensionality of the output space.
